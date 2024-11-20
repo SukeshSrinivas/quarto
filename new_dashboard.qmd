@@ -1,0 +1,14 @@
+---
+format: dashboard
+title: "My new dashboard"
+---
+## Column 1
+
+```{python}
+print  ("Hello Jeena")
+
+```
+
+
+
+## Column 2
